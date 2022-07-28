@@ -49,7 +49,9 @@ Therefore, tests for this case ignored until I fix the issue.
 
 ## References
 [1] “Inverse Text Normalization as a Labeling Problem.” Apple Machine Learning Research, Apple Inc., Aug. 2017, machinelearning.apple.com/research/inverse-text-normal.
+
 [2] "numbers_in_words" markburns, 2015, github.com/markburns/numbers_in_words
+
 [3] "words2num" revdotcom, 2017, github.com/revdotcom/words2num
 
 ## Contact
