@@ -4,9 +4,9 @@ Inverse text normalization algorithm for numbers.
 ## Challenge Description
 Application accepts as input an arbitrary text, and outputs the same text but with all numbers that were spelled in words replaced by the equivalent numbers. For example:
 
-input: He paid twenty million for three such cars.
+>input: He paid twenty million for three such cars.
 
-output: He paid 20000000 for 3 such cars.
+>output: He paid 20000000 for 3 such cars.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
