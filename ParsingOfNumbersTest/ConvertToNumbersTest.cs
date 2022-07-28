@@ -2,7 +2,7 @@ using ParsingOfNumbers.lib;
 
 namespace ParsingOfNumbersTest
 {
-    public class Tests
+    public class ConvertToNumberTest
     {
 
         [Test]
