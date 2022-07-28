@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParsingOfNumbers": {
+      "commandName": "Project",
+      "commandLineArgs": "-p \"one hundred one\""
+    }
+  }
+}
