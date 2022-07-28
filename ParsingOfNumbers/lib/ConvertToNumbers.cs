@@ -111,7 +111,7 @@ namespace ParsingOfNumbers.lib
                     string seq = ConcQueue(queue);
                     queue.Clear();
                     if (seq != "") result.Enqueue(ConvertSequenceToNumber(seq).ToString());
-                    if (i == matches.Count - 1 & !numberTable.ContainsKey(curMatch.ToLowerInvariant())) result.Enqueue(curMatch);
+                    if (i == matches.Count - 1) result.Enqueue(curMatch);
                 }
 
             }
